@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Commands>
+	<Command>
+		<Type>FileCopy</Type>
+		<Parameters>
+			<Parameter>sourcefile.txt</Parameter>
+			<Parameter>destinationFile.txt</Parameter>
+		</Parameters>
+	</Command>
+</Commands>

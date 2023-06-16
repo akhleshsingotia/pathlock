@@ -1,0 +1,15 @@
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\bin\Debug\net7.0\RefrigeratorApp.exe
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\bin\Debug\net7.0\RefrigeratorApp.deps.json
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\bin\Debug\net7.0\RefrigeratorApp.runtimeconfig.json
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\bin\Debug\net7.0\RefrigeratorApp.dll
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\bin\Debug\net7.0\RefrigeratorApp.pdb
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\RefrigeratorApp.csproj.AssemblyReference.cache
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\RefrigeratorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\RefrigeratorApp.AssemblyInfoInputs.cache
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\RefrigeratorApp.AssemblyInfo.cs
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\RefrigeratorApp.csproj.CoreCompileInputs.cache
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\RefrigeratorApp.dll
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\refint\RefrigeratorApp.dll
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\RefrigeratorApp.pdb
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\RefrigeratorApp.genruntimeconfig.cache
+D:\HomeAsignment\HomeAsignment\RefrigeratorApp\obj\Debug\net7.0\ref\RefrigeratorApp.dll
